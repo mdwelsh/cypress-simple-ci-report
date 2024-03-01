@@ -3,5 +3,6 @@
     "reporterOptions": {
         "configFile": "reporter-config.json"
     },
+    "video": true,
     "videoCompression": 15
 }
